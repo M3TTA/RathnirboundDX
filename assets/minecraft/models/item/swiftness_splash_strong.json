@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/swiftness_overlay",
+        "layer1": "item/strong_swiftness_splash"
+    }
+}

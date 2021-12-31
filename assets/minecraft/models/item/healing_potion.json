@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/healing_overlay",
+        "layer1": "item/healing_potion"
+    }
+}

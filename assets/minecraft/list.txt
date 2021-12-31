@@ -1,0 +1,199 @@
+-------------------------------------------
+Stock Series:
+x   Advocaat
+x   Bright Green Absinthe
+x   Calvados
+x   Fine Beer
+x   Fine DarkBeer
+x   Fine WheatBeer
+x   Glowing Mushroom Vodka
+x   Golden Mead
+x   Golden Rum
+x   Great Apple Cider
+x   IceWater
+x   Old Tom Gin
+x   Potato Soup
+x   Red Wine
+x   Russian Vodka
+x   Scotch Whiskey
+x   Strong Absinthe
+x   Strong Coffee
+x   Sweet Golden Apple Mead
+x   Tequila Anejo
+-------------------------------------------
+Ancient Brews Series:
+x   Baileys
+x   Blazing Whiskey
+x   Brandy
+x   Crimson Wine
+x   Decay Absinthe
+x   Ender Beer
+x   Essential Oils
+x   Kombucha
+x   Hot Chocolate
+x   Old Jenever
+x   Premium Saké
+x   Strong Tea
+-------------------------------------------
+Knights Series:
+    Knight's Defence
+    Knight's Love
+    Knight's Speed
+    Knight's Strength
+    Knight's Will
+-------------------------------------------
+Capricious' Recipes:
+x   Dark Chocolate Liquer
+-------------------------------------------
+The Bagel Series:
+ø   Bagel's Hard Cider
+-------------------------------------------
+Extra Series:
+x   Shimmering Gold Vodka
+x   Strong Iced Coffee
+-------------------------------------------
+Drinks of Aurlûnor:
+x   Celestial Tea
+x   Açaì
+x   Chocolate Cinnamon Tea
+-------------------------------------------
+Pog Bar Specialty:
+x   Areskan Cognac
+    Pog Drink
+-------------------------------------------
+The Witch's Cauldron:
+    Firestone Famine
+-------------------------------------------
+Punch Series:
+    Jamaican Rum Punch
+    Jungle Punch
+    Shimmering Twilight Punch
+    Sweet Tropical Punch
+    Strange Galactic Punch
+-------------------------------------------
+Man-This-Stuff-Is-Weird Series:
+    Cocaine
+    Crystal Meth
+    Kush
+    LSD
+-------------------------------------------
+Sakurai Tempo Brews:
+    Blind Luck
+    Dogwater
+ø   Juyondai Ryusen Saké
+-------------------------------------------
+Fanatical Brews:
+x   Kelp Shake
+x   Forest Berry Tea
+x   Wither Tea
+x   Sparkling Water
+x   White Wine
+x   Moonshine
+x   Cookies n Cream
+x   Rakija
+x   Jello Shot
+-------------------------------------------
+Cocktails:
+    Apple Martini
+    Bee's Knees
+    Black & Tan
+    Diki-Diki
+ø   Gaelic Coffee
+    Kahlua Especial
+    Mamajuana
+    Prince of Wales
+    Punsch
+    Tamagozake
+    Tom & Jerry
+-------------------------------------------
+Other:
+    24's Barely Bearable Briny Brew
+    Aleston Signature
+    Animus Ordinus
+    Astorian Sanguis
+    Boon of the Iron Crown
+    Bottled Vigor
+    Burning Fury
+    Chimean Slushie
+    Copium
+    Crusader’s Last Rites
+x   Davy Jones' Ichor
+    Dentril's Terror
+    Depth's Hunger
+ø   Draft Tea
+    Dragwen's Gænteldvin
+    Dwarven Vigor
+    Earnhardt's Super Busch
+    Essence of Vinuvinex
+    Ethanol
+ø   Fine Sweet Berry Mead
+    Fisherman's Flask
+    Fresca
+    Fury of the Lamenellant
+    George’s Fire Liquor
+    Ghastly Brew
+ø   Gilded Darkwood Mead
+    Girls Gone Wild
+    Good Bug Juice
+    Grand Vulcanite
+    Grand Warinae XOO
+    Green Concoction
+    Green Ooze
+    Grog
+    Guardian Water
+    Heart O’ the Isles
+    Heroin
+    Holy Fire's Blood
+    Holy Honey
+    Imo Shōchū
+    Inasta’s Blind Luck
+    Kin-Soju
+    Kraken Mist
+    Lady Luck
+    Lady’s Chai Latté
+    Lady's digging up the dirt
+    Lady's Siren Song
+    Liquid Gold
+    Lizard Piss
+    Luck of the Earth
+    Midrorty
+    Miner's Wet Dream
+    Mole Juice
+    Mushroom Wine
+    Northport Slammer
+    Pan Galactic Gargle Blaster
+    Paradigm of Balance
+    Prime Limoncello
+    Qahveh Min Al Framadar
+    Ravens Blood
+    Redvain Wine
+    RNGJesus
+ø   Root Beer
+    Rumchata
+    Sangreal
+    Seraph Slushie
+    Sodali Sangria
+    Song of Arkthurus
+    Strong Falnirian Mead
+    Spectral's Elixir of Fortitude
+    Spired's Grace
+    Suyajamma Elite
+ø   Sweet Tea
+    The Beard of Beards
+    The Boundless Deep
+    The Journey
+    The Silver Snowflake
+    Tonka Truck
+    True Fools Strength
+ø   Vandalah Honey Mead
+    Vitality of Bharata
+    Voice of the Nameless
+    Vulpan Gold Lager
+    Warped Wine
+    Weary Miner’s Cup of Joe
+    Welpish's Tears
+    Yash's Respite
+-------------------------------------------
+Secrets:
+x   Ichor of Life
+x   Pure Elixir
