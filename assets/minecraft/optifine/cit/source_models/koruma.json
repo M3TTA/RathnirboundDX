@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "weapon/emerald_glaive"
+		"layer0": "weapon/emerald_koruma"
 	},
 	"display": {
 		"thirdperson_righthand": {
