@@ -1,0 +1,25 @@
+{
+    "parent":"item/handheld","textures":{"layer0":"default/weapons/basic/basic_dagger/golden_dagger",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, 90, -135 ],
+      "translation": [ -1, -9, 2 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 0, -90, 135 ],
+      "translation": [ -1, -9, 2 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ -270, 180, 220 ],
+      "translation": [ 0, 2, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, 180, 90 ],
+      "translation": [ 2, -2, 0 ],
+      "scale": [ 1, 1, 1 ]
+    }
+  }
+}

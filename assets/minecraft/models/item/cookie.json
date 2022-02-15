@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cookie"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 483001 }, "model": "joshmats/morefoods/cookie/sweet_berry_cookie" },
+        { "predicate": { "custom_model_data": 483002 }, "model": "joshmats/morefoods/cookie/honey_cookie" },
+        { "predicate": { "custom_model_data": 483003 }, "model": "joshmats/morefoods/cookie/sushi" },
+        { "predicate": { "custom_model_data": 483004 }, "model": "joshmats/morefoods/cookie/sugar_cookie" }
+    ]
+}

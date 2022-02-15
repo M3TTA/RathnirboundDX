@@ -1,0 +1,4 @@
+type=item
+matchItems=diamond_sword
+texture=textures/weapon/special_uldarash/type69.png
+nbt.display.Name=ipattern:Type 69

@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"item/handheld","textures":{"layer0":"default/weapons/basic/basic_scythe/emerald_scythe"}
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-20, -5, -25],
+			"translation": [-3.5, 2, 1],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-20, -185, 25],
+			"translation": [-3.5, 2, 1],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [270, -10, -25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [270, -200, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

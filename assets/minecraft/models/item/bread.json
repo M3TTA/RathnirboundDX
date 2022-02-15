@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bread"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 481001 }, "model": "joshmats/morefoods/bread/carrot_bread" },
+        { "predicate": { "custom_model_data": 481002 }, "model": "joshmats/morefoods/bread/beetroot_bread" },
+        { "predicate": { "custom_model_data": 481003 }, "model": "joshmats/morefoods/bread/potato_bread" }
+    ]
+}

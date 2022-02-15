@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "joshmats/morefoods/sword/netherite_knife"
+    }
+}

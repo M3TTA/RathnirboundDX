@@ -1,0 +1,25 @@
+{
+    "parent":"item/handheld","textures":{"layer0":"default/weapons/basic/basic_quarterstaff/amethyst_quarterstaff",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, 270, 45 ],
+      "translation": [ 0, 0, 2 ],
+      "scale": [ 2.4, 2.4, 1 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 0, -270, -45 ],
+      "translation": [ 0, 0, 2 ],
+      "scale": [ 2.4, 2.4, 1 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ -25, -90, 25 ],
+      "translation": [ 1.13, 1.4, 1.13 ],
+      "scale": [ 1.8, 1.8, 1 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 340, 90, -25 ],
+      "translation": [ 1.13, 1.4, 1.13 ],
+      "scale": [ 1.8, 1.8, 0.75 ]
+    }
+  }
+}

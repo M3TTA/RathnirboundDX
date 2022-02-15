@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot_soup"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 486001 }, "model": "joshmats/morefoods/beetsoup/rice_bowl" },
+        { "predicate": { "custom_model_data": 486002 }, "model": "joshmats/morefoods/beetsoup/fish_and_chips" },
+        { "predicate": { "custom_model_data": 486003 }, "model": "joshmats/morefoods/beetsoup/coleslaw" },
+        { "predicate": { "custom_model_data": 486004 }, "model": "joshmats/morefoods/beetsoup/potato_salad" },
+        { "predicate": { "custom_model_data": 486005 }, "model": "joshmats/morefoods/beetsoup/vegetable_salad" }
+    ]
+}

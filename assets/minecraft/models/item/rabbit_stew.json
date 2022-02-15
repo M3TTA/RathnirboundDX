@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/rabbit_stew"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 488001 }, "model": "joshmats/morefoods/rabstew/fried_rice" }
+    ]
+}

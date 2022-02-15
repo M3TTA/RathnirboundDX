@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 480001 }, "model": "joshmats/morefoods/rice_making_station" }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_salmon"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 482001 }, "model": "joshmats/morefoods/cookedsalmon/sweet_roll" }
+    ]
+}

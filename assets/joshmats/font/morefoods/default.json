@@ -1,0 +1,366 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/rice.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF002"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/bread/carrot_bread.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/bread/beetroot_bread.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/bread/potato_bread.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF103"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/cookedsalmon/sweet_roll.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF203"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/cookie/sweet_berry_cookie.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF301"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/cookie/honey_cookie.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF302"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/cookie/sushi.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF303"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/cookie/sugar_cookie.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF304"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/pie/carrot_pie.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF401"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/pie/sweet_berry_pie.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF402"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/pie/apple_pie.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF403"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/pie/leche_flan.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF404"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/sword/iron_knife.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF504"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/beetsoup/rice_bowl.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF601"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/beetsoup/fish_and_chips.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF602"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/beetsoup/coleslaw.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF603"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/beetsoup/potato_salad.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF604"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/beetsoup/vegetable_salad.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF605"]
+        },
+      
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/susstew/apple_ice_cream.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF701"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/susstew/melon_ice_cream.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF702"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/susstew/chocolate_ice_cream.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF703"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/susstew/pumpkin_ice_cream.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF704"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:joshmats/morefoods/rabstew/fried_rice.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uF801"]
+        },
+
+
+        
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/rice_making_station.png",
+            "ascent": 6,
+            "height": 40,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/rice.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE002"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/carrot_bread.png",
+            "ascent": 6,
+            "height": 40,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/beetroot_bread.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/potato_bread.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE103"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/sweet_roll.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE203"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/sweet_berry_cookie.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE301"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/honey_cookie.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE302"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/sushi.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE303"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/sugar_cookie.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE304"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/carrot_pie.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE401"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/sweet_berry_pie.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE402"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/apple_pie.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE403"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/leche_flan.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE404"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/iron_knife.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE504"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/rice_bowl.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE601"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/fish_and_chips.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE602"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/vegetable_salad.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE605"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/coleslaw.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE603"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/potato_salad.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE604"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/apple_ice_cream.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE701"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/melon_ice_cream.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE702"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/chocolate_ice_cream.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE703"]
+        },
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/pumpkin_ice_cream.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE704"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "joshmats:morefoods/fried_rice.png",
+            "ascent": 6,
+            "height": 42,
+            "chars": ["\uE801"]
+        }
+    ]
+}

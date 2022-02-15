@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/suspicious_stew"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 487001 }, "model": "joshmats/morefoods/susstew/apple_ice_cream" },
+        { "predicate": { "custom_model_data": 487002 }, "model": "joshmats/morefoods/susstew/melon_ice_cream" },
+        { "predicate": { "custom_model_data": 487003 }, "model": "joshmats/morefoods/susstew/chocolate_ice_cream" },
+        { "predicate": { "custom_model_data": 487004 }, "model": "joshmats/morefoods/susstew/pumpkin_ice_cream" }
+
+    ]
+}

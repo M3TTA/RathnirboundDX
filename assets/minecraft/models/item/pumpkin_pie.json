@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pumpkin_pie"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 484001 }, "model": "joshmats/morefoods/pie/carrot_pie" },
+        { "predicate": { "custom_model_data": 484002 }, "model": "joshmats/morefoods/pie/sweet_berry_pie" },
+        { "predicate": { "custom_model_data": 484003 }, "model": "joshmats/morefoods/pie/apple_pie" },
+        { "predicate": { "custom_model_data": 484004 }, "model": "joshmats/morefoods/pie/leche_flan" }
+    ]
+}
