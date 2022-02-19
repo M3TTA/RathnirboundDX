@@ -1,0 +1,6 @@
+{
+    "parent": "optifine/cit/source_models/lg_bow",
+    "textures": {
+        "layer0": "item/bow_pulling_0"
+    }
+}
