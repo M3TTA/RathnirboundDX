@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./lungua_crescent"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 50],
+			"translation": [0, 7.75, 2.25],
+			"scale": [1.65, 1.65, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -50],
+			"translation": [0, 7.75, 2.25],
+			"scale": [1.65, 1.65, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 73, 40],
+			"translation": [2.45, 7.5, 1.2],
+			"scale": [1.5, 1.5, 0.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, -73, 133],
+			"translation": [2.45, 7.5, 1.2],
+			"scale": [1.5, 1.5, 0.55]
+		},
+		"ground": {
+			"translation": [0, 4.1, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [0.75, 0.75, 0]
+		},
+		"fixed": {
+			"translation": [0.75, 0.75, 0],
+			"scale": [1.25, 1.25, 1]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "connect.joining": "",
+  "menu.disconnect": "Exit",
+  "menu.returnToGame": "Back to Stoneworks",
+  "menu.game": "",
+  "item.dyed": "",
+  "container.inventory": " Inventory",
+  "resourcePack.server.name": "Vanilla Mod"
+}

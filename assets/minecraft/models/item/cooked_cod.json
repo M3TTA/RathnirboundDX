@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/cooked_cod"
+	},
+   
+	"overrides": [
+	 { "predicate": {"custom_model_data": 203}, "model": "item/s_cod"},
+	 { "predicate": {"custom_model_data": 213}, "model": "item/g_cod"},
+	 { "predicate": {"custom_model_data": 223}, "model": "item/sp_cod"}
+
+   
+	]
+   
+	
+   }

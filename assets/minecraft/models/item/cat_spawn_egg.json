@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	 "layer0": "item/spawn_egg",
+	 "layer1": "item/spawn_egg_overlay"
+	},
+   
+	"overrides": [
+	 { "predicate": {"custom_model_data": 1001}, "model": "item/stovetop"}
+   
+	]
+   
+	
+   }

@@ -1,0 +1,13 @@
+{
+  "parent":"item/generated",
+  "textures": {
+    "layer0":"item/cooked_beef"
+  },
+
+  "overrides": [
+    {"predicate":{"custom_model_data":1},"model":"miner_sandwitch"},
+    {"predicate":{"custom_model_data":2},"model":"weed_leaf"},
+    {"predicate":{"custom_model_data":3},"model":"grape"}
+  ]
+
+}

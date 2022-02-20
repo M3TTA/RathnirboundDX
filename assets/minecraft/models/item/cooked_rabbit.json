@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/cooked_rabbit"
+	},
+   
+	"overrides": [
+	 { "predicate": {"custom_model_data": 206}, "model": "item/s_rabbit"},
+	 { "predicate": {"custom_model_data": 216}, "model": "item/g_rabbit"},
+	 { "predicate": {"custom_model_data": 226}, "model": "item/sp_rabbit"}
+
+   
+	]
+   
+	
+   }

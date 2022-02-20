@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/cooked_mutton"
+	},
+   
+	"overrides": [
+	 { "predicate": {"custom_model_data": 204}, "model": "item/s_mutton"},
+	 { "predicate": {"custom_model_data": 214}, "model": "item/g_mutton"},
+	 { "predicate": {"custom_model_data": 224}, "model": "item/sp_mutton"}
+
+   
+	]
+   
+	
+   }
