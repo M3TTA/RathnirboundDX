@@ -24,3 +24,5 @@ Nerf Weapon pack by moltenninja1181
 Original Content by cammy#6359
 
 Helmian Federation Pack by AlphaEnderGamer#4392
+
+Dye Textures by Sluna#2398
