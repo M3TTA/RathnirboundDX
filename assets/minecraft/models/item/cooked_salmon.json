@@ -1,9 +1,16 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/cooked_salmon"
-    },
-    "overrides": [
-        { "predicate": { "custom_model_data": 482001 }, "model": "joshmats/morefoods/cookedsalmon/sweet_roll" }
-    ]
-}
+	"parent": "item/generated",
+	"textures": {
+	 "layer0": "item/cooked_salmon"
+	},
+   
+	"overrides": [
+	 { "predicate": {"custom_model_data": 206}, "model": "item/s_salmon"},
+	 { "predicate": {"custom_model_data": 216}, "model": "item/g_salmon"},
+	 { "predicate": {"custom_model_data": 226}, "model": "item/sp_salmon"}
+
+   
+	]
+   
+	
+   }

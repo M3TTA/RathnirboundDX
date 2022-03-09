@@ -1,25 +1,28 @@
 {
-    "parent":"item/handheld","textures":{"layer0":"default/weapons/basic/basic_spear/iron_spear",
-  "display": {
-    "thirdperson_righthand": {
-      "rotation": [ 0, 270, 45 ],
-      "translation": [ -1, 2, 2 ],
-      "scale": [ 2.4, 2.4, 1 ]
-    },
-    "thirdperson_lefthand": {
-      "rotation": [ 0, -270, -45 ],
-      "translation": [ -1, 2, 2 ],
-      "scale": [ 2.4, 2.4, 1 ]
-    },
-    "firstperson_righthand": {
-      "rotation": [ -90, -90, 25 ],
-      "translation": [ 1.13, 4.2, 1.13 ],
-      "scale": [ 1.8, 1.8, 1 ]
-    },
-    "firstperson_lefthand": {
-      "rotation": [ -90, 90, -25 ],
-      "translation": [ 1.13, 4.2, 1.13 ],
-      "scale": [ 1.8, 1.8, 1 ]
-    }
-  }
-}
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "default/weapons/basic/basic_spear/iron_spear"
+	},
+		"display": {
+			"thirdperson_righthand": {
+				"rotation": [0, 270, 45],
+				"translation": [-1, 2, 2],
+				"scale": [2.4, 2.4, 1]
+			},
+			"thirdperson_lefthand": {
+				"rotation": [0, -270, -45],
+				"translation": [-1, 2, 2],
+				"scale": [2.4, 2.4, 1]
+			},
+			"firstperson_righthand": {
+				"rotation": [-90, -90, 25],
+				"translation": [1.13, 4.2, 1.13],
+				"scale": [1.8, 1.8, 1]
+			},
+			"firstperson_lefthand": {
+				"rotation": [-90, 90, -25],
+				"translation": [1.13, 4.2, 1.13],
+				"scale": [1.8, 1.8, 1]
+			}
+		}
+	}

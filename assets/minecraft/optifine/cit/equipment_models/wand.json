@@ -1,0 +1,63 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wand"
+    },
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [-75, -90, -25],
+			"translation": [0, 1.1, 1.75],
+			"scale": [ 1.7, 1.7, 1.7 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [25, -90, -25],
+			"translation": [0, 1.1, 1.75],
+			"scale": [ 1.7, 1.7, 1.7 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [85, 90, -45],
+			"translation": [2.25, 3, 1],
+			"scale": [ 1.35, 1.35, 1.35 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 85, 45],
+			"translation": [1.75, 3, 1],
+			"scale": [ 1.35, 1.35, 1.35 ]
+		}
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/crossbow_firework"
+        }
+    ]
+}
