@@ -3,7 +3,10 @@
   "menu.disconnect": "Exit",
   "menu.returnToGame": "Back to Stoneworks",
   "menu.game": "",
+  "item.minecraft.trident": "Prismarine Trident",
   "item.dyed": "",
-  "container.inventory": " Inventory",
-  "resourcePack.server.name": "Vanilla Mod"
+    "item.minecraft.spider_spawn_egg": "Ant Spawn Egg",
+    "entity.minecraft.spider": "Ant",
+    "container.inventory": " Inventory",
+  "resourcePack.server.name": "Stoneworks"
 }
