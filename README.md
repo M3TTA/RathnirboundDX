@@ -9,7 +9,7 @@ Please contact the original devs before doing any commercial work with these.
 ## Packs used:
 Rathnirbound by E10#0365 and cammy#6359
 
-Stoneworksbound by the Stoneworks Resource Pack Team
+Stoneworksbound by the [Stoneworks Resource Pack Team](https://github.com/M3TTA/StoneworksBound/blob/main/assets/minecraft/texts/credits.json)
 
 Vanaris' Forge by deSpaceman#5451
 
