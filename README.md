@@ -23,6 +23,8 @@ Nerf Weapon pack by moltenninja1181
 
 Original Content by cammy#6359
 
+Original Content by Tirado#2198
+
 Helmian Federation Pack by AlphaEnderGamer#4392
 
 Dye Textures by Sluna#2398
