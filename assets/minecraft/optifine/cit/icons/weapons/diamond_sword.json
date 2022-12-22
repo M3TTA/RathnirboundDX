@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/diamond_sword"},"overrides":[{"predicate":{"custom_model_data":889},"model":"item/custom/cui/diamond_sword/model_889"}]}
